@@ -10,7 +10,7 @@
 
 ## 📜 Instalacja
 ```sh
-git clone https://github.com/twojanazwa/kawiarnia-mysql-python.git
+git clone https://github.com/LukaszOstapczuk/kawiarnia-mysql-python
 cd kawiarnia-mysql-python
 pip install -r requirements.txt
 
